@@ -1,0 +1,10 @@
+^tidydb\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^data-raw$
+^\.vscode$
+^scripts$
+^INPUT$
+^Figures$
+^OUTPUT$
+^inst$
